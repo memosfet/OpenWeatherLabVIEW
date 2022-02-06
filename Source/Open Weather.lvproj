@@ -11,7 +11,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Open Weather Session.lvclass" Type="LVClass" URL="../Open Weather Session/Open Weather Session.lvclass"/>
-		<Item Name="Utilities.lvlib" Type="Library" URL="../Utilities/Utilities.lvlib"/>
+		<Item Name="Open Weather Utilities.lvlib" Type="Library" URL="../Utilities/Open Weather Utilities.lvlib"/>
 		<Item Name="Weather API test.vi" Type="VI" URL="../../Tests/Weather API test.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
