@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2021-12-28 22:39:50" Modified_Date="2022-02-05 20:35:06" Creator="goo13" Comments="" ID="d843085052aa115c06d3235d2f185940">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2021-12-28 22:39:50" Modified_Date="2022-02-05 20:37:43" Creator="goo13" Comments="" ID="d902e69b62470714ad54155e689f7cee">
   <Library_General_Settings>
     <Package_File_Name>Memosfet_lib_OpenWeather</Package_File_Name>
     <Library_Version>1.0.0.4</Library_Version>
@@ -111,9 +111,6 @@
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace/>
       </Namespace_Overrides>
-      <Exclusions>
-        <Path>Utilities</Path>
-      </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath/>
     <Licensing_and_Activation>
@@ -255,7 +252,7 @@
         <Path>..\Source\Open Weather Session\Public\Configurate Coordenates.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BE16D3C5C7291D1EA5C03C74E8A6790F</GUID>
+      <GUID>DE1EEAD0E0C4D4B414739311E59043C1</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
