@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2021-12-28 22:39:50" Modified_Date="2022-02-05 19:46:03" Creator="goo13" Comments="" ID="148d3b1ffa8e9501fff04f3de05c0bc5">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2021-12-28 22:39:50" Modified_Date="2022-02-05 20:35:06" Creator="goo13" Comments="" ID="d843085052aa115c06d3235d2f185940">
   <Library_General_Settings>
     <Package_File_Name>Memosfet_lib_OpenWeather</Package_File_Name>
-    <Library_Version>1.0.0.2</Library_Version>
+    <Library_Version>1.0.0.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\Source</Library_Source_Folder>
     <Library_Output_Folder>Built</Library_Output_Folder>
@@ -221,7 +221,7 @@
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
           <Row>1</Row>
-          <Column>2</Column>
+          <Column>3</Column>
         </Position>
         <Icon>00000000</Icon>
         <Path>..\Source\Open Weather Session\Public\Query Weather Data.vi</Path>
@@ -235,13 +235,27 @@
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
           <Row>1</Row>
-          <Column>3</Column>
+          <Column>4</Column>
         </Position>
         <Icon>00000000</Icon>
         <Path>..\Source\Open Weather Session\Public\Close.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>ADB4A8D62A61D3CF8DD9392BAA9024EB</GUID>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>Configurate Coordenates.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>2</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>..\Source\Open Weather Session\Public\Configurate Coordenates.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <GUID>BE16D3C5C7291D1EA5C03C74E8A6790F</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
