@@ -1,5 +1,5 @@
 # Open Weather LabVIEW API
-The Open Weather LabVIEW API contains basic methods to call the "One Call API" from [Open Weather Map](openweathermap.org), directly from LabVIEW as an HTTP Client.
+The Open Weather LabVIEW API contains basic methods to call the "One Call API" from [Open Weather Map](https://openweathermap.org), directly from LabVIEW as an HTTP Client.
 
 ## LabVIEW Requirements
 
