@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2021-12-28 22:39:50" Modified_Date="2024-08-17 17:39:35" Creator="goo13" Comments="" ID="7fe86c8a99bd49c98ae25ce51caec662">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2021-12-28 22:39:50" Modified_Date="2024-08-18 13:07:48" Creator="goo13" Comments="" ID="ee4759bf4e2e1bed0d22384ae28fb78d">
   <Library_General_Settings>
     <Package_File_Name>Memosfet_lib_OpenWeather</Package_File_Name>
-    <Library_Version>1.0.0.5</Library_Version>
+    <Library_Version>1.0.0.6</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\Source</Library_Source_Folder>
     <Library_Output_Folder>Built</Library_Output_Folder>
@@ -16,7 +16,9 @@
     <Target>LabVIEW</Target>
   </Library_General_Settings>
   <Advanced_Settings>
-    <Package_Dependencies/>
+    <Package_Dependencies>
+      <Package_Conflicts>jki_lib_rest_client =2.0.0.33</Package_Conflicts>
+    </Package_Dependencies>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
       <Post-Build_VI/>
@@ -253,7 +255,7 @@
         <Path>..\Source\Open Weather Session\Public\Configurate Coordenates.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>38316C7E5BA275DC16ECC0D202751629</GUID>
+      <GUID>357672B50257FC0381063072A304B724</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
